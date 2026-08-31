@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+scalable+fintech+%26+SaaS+products;100%2C000%2B+downloads+on+RSKPay+%F0%9F%93%B1;Architecting+OnMarQ360+HRMS+%F0%9F%8F%A2;Now+building+ReVisit+%E2%80%94+WhatsApp-first+CRM+%F0%9F%92%AC;Open+to+Backend+%2F+Full-Stack+roles+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+scalable+fintech+%26+SaaS+products;100%2C000%2B+downloads+on+RSKPay+%F0%9F%93%B1;Architecting+OnMarQ360+HRMS+%F0%9F%8F%A2;Open+to+Backend+%2F+Full-Stack+roles+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -49,11 +49,6 @@
 </td>
 </tr>
 </table>
-
-### 💡 Currently Building — ReVisit
-> A WhatsApp-first customer engagement platform helping local businesses manage customers, send digital receipts, launch marketing campaigns, and build repeat-purchase loyalty.
-
-<img src="https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge&logo=whatsapp&logoColor=white" alt="in development"/>
 
 ---
 
@@ -155,8 +150,6 @@
 <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=100&section=footer" width="100%"/>
