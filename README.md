@@ -1,16 +1,16 @@
-# Hi 👋, I'm Kajal Jain
+# Hi 👋 I'm Kajal Jain
 
-### Full Stack Developer | Backend Engineer | Software Engineer
+### Software Engineer | Full Stack Developer | Backend Engineer
 
 <p align="center">
   <a href="https://jainkajal.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=google-chrome" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-0A66C2?style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/kajal-jain/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/kajal-jain-software-engineer/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/jainkajal">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  <a href="mailto:kjain5899@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
@@ -18,34 +18,26 @@
 
 ## 🚀 About Me
 
-* 🎓 B.Tech Information Technology Graduate (2022–2026)
-* 💻 Full Stack Developer specializing in scalable web & mobile applications
-* 📱 Built and contributed to products used by **100,000+ users**
-* ⚡ Experienced in Backend Development, APIs, Database Design & System Architecture
+Software Engineer with 1.5+ years of experience building and scaling real-world products across fintech, SaaS, HRMS, and marketplace ecosystems.
+
+I've contributed to products serving **100,000+ users**, working across backend systems, APIs, databases, mobile applications, and full-stack product development.
+
+* 🎓 B.Tech Information Technology (2022 – 2026)
+* 💻 Full Stack & Backend Developer
+* 📱 Experience with Android, iOS & Web Applications
+* 📚 Co-author of 2 Research Publications
 * 🏆 Best Project Award Recipient
 * 🏅 Outstanding Student of the Batch
-* 📄 Letter of Appreciation from PugArch Technology Pvt. Ltd.
-* 📚 Co-author of 2 Research Publications
 * 📍 Nagpur, Maharashtra, India
 
 ---
 
-## 🌐 Portfolio
-
-<p align="center">
-<a href="https://jainkajal.github.io/portfolio/">
-<img src="https://img.shields.io/badge/View%20Portfolio-Live%20Website-success?style=for-the-badge&logo=google-chrome" />
-</a>
-</p>
-
----
-
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,sql" />
 </p>
 
 ### Frontend
@@ -60,7 +52,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Mobile Development
+### Mobile
 
 <p>
 <img src="https://skillicons.dev/icons?i=react" />
@@ -74,7 +66,7 @@ React Native • Android • iOS
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
 </p>
 
-### DevOps & Tools
+### Tools & DevOps
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,postman,vscode" />
@@ -89,25 +81,27 @@ React Native • Android • iOS
 **RSK Online Services Pvt. Ltd.**
 *May 2026 – Aug 2026*
 
-* Developed and maintained scalable web and mobile applications.
-* Built backend APIs and optimized business workflows.
-* Worked on fintech, HRMS, marketplace, and SaaS products.
+* Worked on fintech and SaaS products.
+* Built scalable backend services and APIs.
+* Contributed to web and mobile application development.
+* Collaborated across product, development, and deployment cycles.
 
 ### Software Developer Intern
 
 **RSK Online Services Pvt. Ltd.**
 *May 2025 – May 2026*
 
-* Worked across backend, frontend, and mobile development.
-* Implemented features, fixed production issues, and supported deployments.
+* Contributed to product development and scaling initiatives.
+* Worked on backend, frontend, testing, and deployment activities.
+* Participated throughout the software development lifecycle.
 
 ### Jr. Software Developer Intern
 
 **PugArch Technology Pvt. Ltd.**
 *Jun 2024 – Nov 2024*
 
-* Assisted in software development and testing.
-* Contributed to real-world client and product projects.
+* Assisted in software application development.
+* Worked on feature implementation, debugging, and testing.
 
 ---
 
@@ -115,31 +109,33 @@ React Native • Android • iOS
 
 ### 📱 RSKPay
 
-Fintech platform for recharge and utility payment services.
+Fintech mobile application for recharge and utility payments.
 
 **Highlights**
 
 * 100,000+ Downloads
-* Mobile Application Development
-* Payment Integrations
-* Backend API Development
+* Android & iOS Platform
+* Payment Workflows
+* API Integrations
 
-**Tech:** React Native, Node.js, PostgreSQL
+**Tech Stack**
+React Native • Node.js • PostgreSQL
 
 ---
 
 ### 🏢 OnMarQ360
 
-Enterprise HRMS & Business Management Platform.
+Enterprise HRMS & Business Management SaaS Platform.
 
 **Highlights**
 
 * 50+ Business Modules
-* Attendance & Payroll
-* Employee Lifecycle Management
-* Multi-Tenant SaaS Architecture
+* Multi-Tenant Architecture
+* Payroll & Attendance Management
+* Governance & Operations Management
 
-**Tech:** React, Node.js, PostgreSQL
+**Tech Stack**
+React • Node.js • PostgreSQL
 
 ---
 
@@ -149,62 +145,21 @@ AI-Powered Influencer Marketplace.
 
 **Highlights**
 
-* Creator Discovery
+* Creator Marketplace
 * Campaign Management
-* Brand Collaboration Workflows
+* Brand Collaboration Platform
 
-**Tech:** React, Node.js, PostgreSQL
+**Tech Stack**
+React • Node.js • PostgreSQL
 
 ---
 
 ### 🌍 Connect2NGO
 
-Platform connecting NGOs, volunteers, and donors.
+Social Impact Platform connecting NGOs, volunteers, and donors.
 
-**Tech:** Spring Boot, MySQL, JWT
-
-**Research Publication:** IJRASET
-
----
-
-## 🏆 Achievements
-
-🥇 Best Project Award
-
-🏅 Outstanding Student of the Batch
-
-📄 Letter of Appreciation – PugArch Technology Pvt. Ltd.
-
-👨‍💻 Technical Head – Coding Club
-
-📚 Co-author of 2 Published Research Papers
-
-🎤 Startup Pitch Competition Winner
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jainkajal&show_icons=true&theme=tokyonight" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainkajal&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=jainkajal&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jainkajal&theme=tokyo-night" />
-</p>
+**Publication**
+Published in IJRASET
 
 ---
 
@@ -220,22 +175,48 @@ Published in IJRAR
 
 ---
 
-## 🤝 Connect With Me
+## 🏆 Achievements
 
-<p align="left">
-<a href="https://www.linkedin.com/in/kajal-jain/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+* 🥇 Best Project Award
+* 🏅 Outstanding Student of the Batch
+* 📄 Letter of Appreciation – PugArch Technology Pvt. Ltd.
+* 👨‍💻 Technical Head – Coding Club
+* 📚 Co-author of 2 Research Papers
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+<a href="https://jainkajal.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge" />
+</a>
+
+<a href="https://www.linkedin.com/in/kajal-jain-software-engineer/">
+<img src="https://img.shields.io/badge/LinkedIn-Kajal_Jain-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="mailto:kjain5899@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-</a>
-
-<a href="https://jainkajal.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome" />
+<img src="https://img.shields.io/badge/Gmail-kjain5899@gmail.com-red?style=for-the-badge&logo=gmail" />
 </a>
 </p>
 
 ---
 
-⭐ Open to Full Stack, Backend, Node.js, React, React Native, and Software Engineering opportunities worldwide.
+### Currently Open To
+
+✅ Software Engineer
+
+✅ Backend Engineer
+
+✅ Full Stack Developer
+
+✅ Node.js Developer
+
+✅ React Developer
+
+✅ React Native Developer
+
+---
+
+> Building scalable products, solving real-world problems, and continuously learning through engineering.
