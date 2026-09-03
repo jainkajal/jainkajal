@@ -211,7 +211,7 @@ Priyadarshini Bhagwati College of Engineering, Nagpur
 | | |
 |---|---|
 | **Email** | [kjain5899@gmail.com](mailto:kjain5899@gmail.com) |
-| **Phone** | [Add your phone number] |
+| **Phone** | [+91 9307055926] |
 | **LinkedIn** | [linkedin.com/in/kajal-jain-software-engineer](https://linkedin.com/in/kajal-jain-software-engineer) |
 | **Portfolio** | [jainkajal.github.io/portfolio](https://jainkajal.github.io/portfolio) |
 | **GitHub** | [github.com/jainkajal](https://github.com/jainkajal) |
